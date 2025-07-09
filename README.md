@@ -39,10 +39,10 @@ This Power BI dashboard provides a comprehensive visualization of user spending 
 
 ---
 
-## 📁 Files
+## 📁 Files contains
 - `Savr_dashboard.pbix` – Power BI project file
 - `Savr_dashboard.png` – Dashboard screenshot
-- `data/sample_data.csv` – (Optional) Sample data used in development
+- `Transactional_Budget_Tracker_dataset_5users`- Sample mock data it can be for more than 1000 users too but this one is only for 5 users
 
 ---
 

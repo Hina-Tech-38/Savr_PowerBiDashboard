@@ -1,0 +1,751 @@
+User,Date,Category,Amount,Payment Method,Description
+Aarav,03-01-2023,Entertainment,14814.16,UPI,Entertainment expense
+Aarav,13-01-2023,Dining Out,7094.01,Credit Card,Dining Out expense
+Aarav,15-01-2023,Subscriptions,1488.82,Debit Card,Subscriptions expense
+Aarav,22-01-2023,Travel,8686.08,Credit Card,Travel expense
+Aarav,22-01-2023,Rent,3729.18,Credit Card,Rent expense
+Aarav,27-01-2023,Groceries,14432.48,UPI,Groceries expense
+Aarav,27-01-2023,Utilities,5437.81,Cash,Utilities expense
+Aarav,30-01-2023,Rent,11962.54,Credit Card,Rent expense
+Aarav,01-02-2023,Rent,12724.75,Debit Card,Rent expense
+Aarav,07-02-2023,Utilities,13058.53,Credit Card,Utilities expense
+Aarav,10-02-2023,Health,9095.33,Credit Card,Health expense
+Aarav,10-02-2023,Entertainment,597.13,Debit Card,Entertainment expense
+Aarav,12-02-2023,Shopping,9956.67,Debit Card,Shopping expense
+Aarav,20-02-2023,Dining Out,12509.3,Debit Card,Dining Out expense
+Aarav,22-02-2023,Transport,8283.37,Credit Card,Transport expense
+Aarav,24-02-2023,Utilities,12186.02,UPI,Utilities expense
+Aarav,25-02-2023,Subscriptions,10491.52,Credit Card,Subscriptions expense
+Aarav,12-03-2023,Subscriptions,288.52,Credit Card,Subscriptions expense
+Aarav,18-03-2023,Utilities,6186.91,Cash,Utilities expense
+Aarav,25-03-2023,Utilities,2689.82,UPI,Utilities expense
+Aarav,30-03-2023,Entertainment,3733.57,Debit Card,Entertainment expense
+Aarav,03-04-2023,Health,11429.51,Cash,Health expense
+Aarav,08-04-2023,Shopping,4756.6,Debit Card,Shopping expense
+Aarav,12-04-2023,Transport,4043.23,UPI,Transport expense
+Aarav,12-04-2023,Education,14091.89,Debit Card,Education expense
+Aarav,13-04-2023,Education,10440.62,UPI,Education expense
+Aarav,20-04-2023,Transport,8621.65,Debit Card,Transport expense
+Aarav,27-04-2023,Education,9750.87,Cash,Education expense
+Aarav,30-04-2023,Utilities,14199.3,Cash,Utilities expense
+Aarav,07-05-2023,Education,10125.14,Credit Card,Education expense
+Aarav,09-05-2023,Dining Out,1122.29,UPI,Dining Out expense
+Aarav,10-05-2023,Travel,1628.56,Debit Card,Travel expense
+Aarav,16-05-2023,Subscriptions,8009.7,Credit Card,Subscriptions expense
+Aarav,19-05-2023,Health,5628.07,Debit Card,Health expense
+Aarav,21-05-2023,Travel,13560.72,Cash,Travel expense
+Aarav,26-05-2023,Groceries,2572.25,Cash,Groceries expense
+Aarav,27-05-2023,Transport,9604.78,Debit Card,Transport expense
+Aarav,28-05-2023,Health,1214.94,UPI,Health expense
+Aarav,01-06-2023,Groceries,4197.74,UPI,Groceries expense
+Aarav,07-06-2023,Education,7682.19,Credit Card,Education expense
+Aarav,29-06-2023,Education,13749.48,Debit Card,Education expense
+Aarav,04-07-2023,Utilities,1276.63,UPI,Utilities expense
+Aarav,05-07-2023,Dining Out,9558.29,Debit Card,Dining Out expense
+Aarav,14-07-2023,Dining Out,10198.69,Credit Card,Dining Out expense
+Aarav,15-07-2023,Groceries,10829.11,UPI,Groceries expense
+Aarav,18-07-2023,Entertainment,5477.13,UPI,Entertainment expense
+Aarav,01-08-2023,Dining Out,12214.49,UPI,Dining Out expense
+Aarav,09-08-2023,Health,13332.56,Debit Card,Health expense
+Aarav,15-08-2023,Health,4662.47,UPI,Health expense
+Aarav,15-08-2023,Dining Out,10935.92,Cash,Dining Out expense
+Aarav,19-08-2023,Travel,13635.33,UPI,Travel expense
+Aarav,20-08-2023,Travel,14512.32,Debit Card,Travel expense
+Aarav,27-08-2023,Shopping,11850.79,UPI,Shopping expense
+Aarav,28-08-2023,Entertainment,6434.57,UPI,Entertainment expense
+Aarav,29-08-2023,Travel,14961.65,Credit Card,Travel expense
+Aarav,01-09-2023,Dining Out,335.14,Credit Card,Dining Out expense
+Aarav,02-09-2023,Dining Out,3580.08,Debit Card,Dining Out expense
+Aarav,03-09-2023,Others,4730.18,UPI,Others expense
+Aarav,07-09-2023,Education,5815.43,UPI,Education expense
+Aarav,08-09-2023,Subscriptions,8532.33,Debit Card,Subscriptions expense
+Aarav,14-09-2023,Utilities,9949.76,Cash,Utilities expense
+Aarav,15-09-2023,Transport,10847.14,Cash,Transport expense
+Aarav,16-09-2023,Education,12349.52,Cash,Education expense
+Aarav,19-09-2023,Shopping,10333.63,UPI,Shopping expense
+Aarav,26-09-2023,Dining Out,12354.02,Debit Card,Dining Out expense
+Aarav,29-09-2023,Shopping,9782.57,Debit Card,Shopping expense
+Aarav,29-09-2023,Rent,11151.6,UPI,Rent expense
+Aarav,02-10-2023,Shopping,12477.89,UPI,Shopping expense
+Aarav,06-10-2023,Subscriptions,6622.61,Debit Card,Subscriptions expense
+Aarav,07-10-2023,Health,14705.65,Debit Card,Health expense
+Aarav,07-10-2023,Utilities,13719.33,Credit Card,Utilities expense
+Aarav,10-10-2023,Subscriptions,7797.75,Cash,Subscriptions expense
+Aarav,10-10-2023,Health,14020.3,Credit Card,Health expense
+Aarav,10-10-2023,Transport,14240.26,Cash,Transport expense
+Aarav,14-10-2023,Rent,3337.32,Credit Card,Rent expense
+Aarav,17-10-2023,Others,1160.58,Debit Card,Others expense
+Aarav,21-10-2023,Transport,3363.17,Credit Card,Transport expense
+Aarav,22-10-2023,Education,1909.25,Debit Card,Education expense
+Aarav,28-10-2023,Shopping,6517.23,Credit Card,Shopping expense
+Aarav,30-10-2023,Others,426.9,Credit Card,Others expense
+Aarav,30-10-2023,Shopping,2717.04,Debit Card,Shopping expense
+Aarav,02-11-2023,Dining Out,12992.38,Debit Card,Dining Out expense
+Aarav,05-11-2023,Travel,11963.79,Cash,Travel expense
+Aarav,06-11-2023,Rent,4187.24,UPI,Rent expense
+Aarav,06-11-2023,Transport,12814.7,Debit Card,Transport expense
+Aarav,08-11-2023,Groceries,1864.93,UPI,Groceries expense
+Aarav,08-11-2023,Education,1548.16,Cash,Education expense
+Aarav,11-11-2023,Dining Out,6643.39,Credit Card,Dining Out expense
+Aarav,19-11-2023,Entertainment,1827.23,Credit Card,Entertainment expense
+Aarav,20-11-2023,Groceries,2953.96,UPI,Groceries expense
+Aarav,29-11-2023,Health,6860.36,Credit Card,Health expense
+Aarav,02-12-2023,Dining Out,9750.02,UPI,Dining Out expense
+Aarav,03-12-2023,Travel,14316.68,Debit Card,Travel expense
+Aarav,04-12-2023,Health,4394.45,Debit Card,Health expense
+Aarav,05-12-2023,Shopping,4136.65,Debit Card,Shopping expense
+Aarav,08-12-2023,Shopping,12880.22,Cash,Shopping expense
+Aarav,20-12-2023,Dining Out,9620.19,Credit Card,Dining Out expense
+Aarav,30-12-2023,Entertainment,4266.91,Credit Card,Entertainment expense
+Aarav,06-01-2024,Travel,10638.9,Debit Card,Travel expense
+Aarav,06-01-2024,Dining Out,9418.59,Debit Card,Dining Out expense
+Aarav,06-01-2024,Subscriptions,6834.88,Cash,Subscriptions expense
+Aarav,09-01-2024,Others,1442.99,UPI,Others expense
+Aarav,10-01-2024,Groceries,307.39,Debit Card,Groceries expense
+Aarav,12-01-2024,Subscriptions,1002.2,Credit Card,Subscriptions expense
+Aarav,13-01-2024,Education,6440.01,Credit Card,Education expense
+Aarav,16-01-2024,Groceries,7125.01,UPI,Groceries expense
+Aarav,22-01-2024,Education,13057.07,Credit Card,Education expense
+Aarav,25-01-2024,Education,4530.56,Debit Card,Education expense
+Aarav,26-01-2024,Health,7480.4,UPI,Health expense
+Aarav,27-01-2024,Dining Out,7515.24,UPI,Dining Out expense
+Aarav,10-02-2024,Entertainment,8532.34,Cash,Entertainment expense
+Aarav,15-02-2024,Education,8697.62,Cash,Education expense
+Aarav,15-02-2024,Subscriptions,6876.91,Cash,Subscriptions expense
+Aarav,18-02-2024,Subscriptions,9899.14,Cash,Subscriptions expense
+Aarav,25-02-2024,Rent,11196.11,Credit Card,Rent expense
+Aarav,28-02-2024,Shopping,6041.08,Debit Card,Shopping expense
+Aarav,02-03-2024,Dining Out,11657.83,UPI,Dining Out expense
+Aarav,05-03-2024,Dining Out,13292.67,UPI,Dining Out expense
+Aarav,06-03-2024,Education,6559.5,Cash,Education expense
+Aarav,10-03-2024,Others,6906.85,Credit Card,Others expense
+Aarav,12-03-2024,Travel,7405.01,Cash,Travel expense
+Aarav,15-03-2024,Entertainment,9183.5,Cash,Entertainment expense
+Aarav,16-03-2024,Groceries,12806.61,Cash,Groceries expense
+Aarav,21-03-2024,Utilities,9277.09,Credit Card,Utilities expense
+Aarav,26-03-2024,Groceries,328.68,Debit Card,Groceries expense
+Aarav,27-03-2024,Shopping,14485.91,UPI,Shopping expense
+Aarav,30-03-2024,Groceries,4899.47,Cash,Groceries expense
+Aarav,31-03-2024,Transport,1580.38,Credit Card,Transport expense
+Aarav,02-04-2024,Subscriptions,5242.35,Debit Card,Subscriptions expense
+Aarav,10-04-2024,Groceries,9661.4,UPI,Groceries expense
+Aarav,15-04-2024,Entertainment,13493.74,Cash,Entertainment expense
+Aarav,18-04-2024,Health,2894.98,Cash,Health expense
+Aarav,20-04-2024,Dining Out,5112.31,Debit Card,Dining Out expense
+Aarav,20-04-2024,Others,9773.67,Credit Card,Others expense
+Aarav,21-04-2024,Entertainment,1200.54,UPI,Entertainment expense
+Aarav,24-04-2024,Others,10526.03,Credit Card,Others expense
+Aarav,24-04-2024,Groceries,11336.86,UPI,Groceries expense
+Aarav,26-04-2024,Entertainment,3549,Cash,Entertainment expense
+Aarav,08-05-2024,Entertainment,12083.06,Credit Card,Entertainment expense
+Aarav,10-05-2024,Education,12403.45,Debit Card,Education expense
+Aarav,10-05-2024,Entertainment,14709.61,Credit Card,Entertainment expense
+Aarav,14-05-2024,Subscriptions,9300.15,Cash,Subscriptions expense
+Aarav,15-05-2024,Subscriptions,10390.08,UPI,Subscriptions expense
+Aarav,17-05-2024,Education,1486.49,Cash,Education expense
+Aarav,18-05-2024,Groceries,5284.62,Debit Card,Groceries expense
+Aarav,21-05-2024,Shopping,7364.49,UPI,Shopping expense
+Aarav,03-06-2024,Entertainment,4314.3,Cash,Entertainment expense
+Aarav,04-06-2024,Others,12974,UPI,Others expense
+Aarav,17-06-2024,Entertainment,9685.78,Debit Card,Entertainment expense
+Aarav,22-06-2024,Groceries,7196.06,Cash,Groceries expense
+Heena,02-01-2023,Subscriptions,5526.9,UPI,Subscriptions expense
+Heena,03-01-2023,Health,13905.12,Credit Card,Health expense
+Heena,07-01-2023,Utilities,5169.73,Debit Card,Utilities expense
+Heena,12-01-2023,Travel,10257.48,Cash,Travel expense
+Heena,21-01-2023,Dining Out,3654.32,UPI,Dining Out expense
+Heena,28-01-2023,Subscriptions,10768.69,UPI,Subscriptions expense
+Heena,28-01-2023,Groceries,2121.92,Debit Card,Groceries expense
+Heena,10-02-2023,Shopping,10262.79,UPI,Shopping expense
+Heena,11-02-2023,Rent,3070.47,UPI,Rent expense
+Heena,12-02-2023,Entertainment,13494.82,Credit Card,Entertainment expense
+Heena,16-02-2023,Travel,11618.72,UPI,Travel expense
+Heena,18-02-2023,Groceries,9448.95,UPI,Groceries expense
+Heena,23-02-2023,Shopping,9787.15,UPI,Shopping expense
+Heena,25-02-2023,Travel,1003.13,Cash,Travel expense
+Heena,27-02-2023,Transport,12095.18,Cash,Transport expense
+Heena,28-02-2023,Rent,7592.47,Debit Card,Rent expense
+Heena,01-03-2023,Dining Out,11244.84,Cash,Dining Out expense
+Heena,02-03-2023,Transport,13590.76,Cash,Transport expense
+Heena,07-03-2023,Health,5030.13,Debit Card,Health expense
+Heena,13-03-2023,Travel,9385.02,Credit Card,Travel expense
+Heena,15-03-2023,Dining Out,8058.68,UPI,Dining Out expense
+Heena,16-03-2023,Rent,9355.27,Debit Card,Rent expense
+Heena,21-03-2023,Others,3593.95,Credit Card,Others expense
+Heena,22-03-2023,Groceries,12258.75,Debit Card,Groceries expense
+Heena,23-03-2023,Transport,5763.88,Cash,Transport expense
+Heena,24-03-2023,Utilities,8966.02,Cash,Utilities expense
+Heena,25-03-2023,Education,11260.46,Cash,Education expense
+Heena,31-03-2023,Dining Out,573.56,Debit Card,Dining Out expense
+Heena,06-04-2023,Transport,7629.79,UPI,Transport expense
+Heena,11-04-2023,Rent,14538.04,Cash,Rent expense
+Heena,13-04-2023,Groceries,7637.68,UPI,Groceries expense
+Heena,16-04-2023,Shopping,14610.17,Debit Card,Shopping expense
+Heena,19-04-2023,Travel,12640.87,Credit Card,Travel expense
+Heena,20-04-2023,Health,2720.71,UPI,Health expense
+Heena,21-04-2023,Health,12893.04,Cash,Health expense
+Heena,25-04-2023,Rent,3748.89,Credit Card,Rent expense
+Heena,25-04-2023,Groceries,8229.3,UPI,Groceries expense
+Heena,05-05-2023,Education,12041.11,UPI,Education expense
+Heena,08-05-2023,Others,7656.13,Credit Card,Others expense
+Heena,11-05-2023,Transport,10007.45,Debit Card,Transport expense
+Heena,11-05-2023,Dining Out,13613.24,Cash,Dining Out expense
+Heena,14-05-2023,Travel,2507.57,Credit Card,Travel expense
+Heena,16-05-2023,Shopping,13201.13,Cash,Shopping expense
+Heena,18-05-2023,Entertainment,13356.72,Cash,Entertainment expense
+Heena,22-05-2023,Subscriptions,1454.55,Debit Card,Subscriptions expense
+Heena,23-05-2023,Others,10182.82,Cash,Others expense
+Heena,08-06-2023,Transport,14645.47,UPI,Transport expense
+Heena,09-06-2023,Transport,1622.93,Credit Card,Transport expense
+Heena,09-06-2023,Entertainment,9111.96,Credit Card,Entertainment expense
+Heena,15-06-2023,Subscriptions,9024.27,Cash,Subscriptions expense
+Heena,17-06-2023,Entertainment,8722.4,Cash,Entertainment expense
+Heena,19-06-2023,Entertainment,14469.01,Debit Card,Entertainment expense
+Heena,21-06-2023,Dining Out,11689.1,Cash,Dining Out expense
+Heena,23-06-2023,Travel,4328.42,Cash,Travel expense
+Heena,01-07-2023,Health,2772.47,Cash,Health expense
+Heena,14-07-2023,Groceries,9918.84,Cash,Groceries expense
+Heena,14-07-2023,Entertainment,10660.9,Cash,Entertainment expense
+Heena,19-07-2023,Others,7466.22,Debit Card,Others expense
+Heena,23-07-2023,Groceries,1618.33,UPI,Groceries expense
+Heena,25-07-2023,Others,6044.99,Credit Card,Others expense
+Heena,29-07-2023,Travel,3656.42,Credit Card,Travel expense
+Heena,04-08-2023,Health,7028.32,Credit Card,Health expense
+Heena,07-08-2023,Health,2553.09,Cash,Health expense
+Heena,12-08-2023,Education,11526.78,Credit Card,Education expense
+Heena,13-08-2023,Travel,12658.49,Credit Card,Travel expense
+Heena,14-08-2023,Education,4166.74,UPI,Education expense
+Heena,16-08-2023,Transport,5309.91,Debit Card,Transport expense
+Heena,19-08-2023,Groceries,413.41,Credit Card,Groceries expense
+Heena,19-08-2023,Transport,463.94,UPI,Transport expense
+Heena,22-08-2023,Transport,9934.49,Cash,Transport expense
+Heena,24-08-2023,Dining Out,207.14,UPI,Dining Out expense
+Heena,25-08-2023,Health,10625.65,UPI,Health expense
+Heena,29-08-2023,Health,14129.78,Cash,Health expense
+Heena,31-08-2023,Utilities,7336.05,Debit Card,Utilities expense
+Heena,07-09-2023,Utilities,13400.63,Cash,Utilities expense
+Heena,08-09-2023,Utilities,5753.89,Debit Card,Utilities expense
+Heena,08-09-2023,Education,6885.7,Cash,Education expense
+Heena,10-09-2023,Dining Out,9328.78,Cash,Dining Out expense
+Heena,11-09-2023,Travel,11510.62,Credit Card,Travel expense
+Heena,15-09-2023,Rent,9550.84,Cash,Rent expense
+Heena,25-09-2023,Utilities,670.03,Credit Card,Utilities expense
+Heena,27-09-2023,Others,13477.56,Debit Card,Others expense
+Heena,27-09-2023,Subscriptions,7664.46,UPI,Subscriptions expense
+Heena,28-09-2023,Rent,8089.8,Debit Card,Rent expense
+Heena,01-10-2023,Travel,1762.13,Credit Card,Travel expense
+Heena,11-10-2023,Rent,5069.99,Cash,Rent expense
+Heena,13-10-2023,Shopping,10224.82,Debit Card,Shopping expense
+Heena,02-11-2023,Health,8119.49,Debit Card,Health expense
+Heena,03-11-2023,Travel,14090.06,Cash,Travel expense
+Heena,05-11-2023,Health,4627.74,Cash,Health expense
+Heena,06-11-2023,Dining Out,10051.16,Cash,Dining Out expense
+Heena,11-11-2023,Transport,3688.99,Cash,Transport expense
+Heena,16-11-2023,Dining Out,6010.15,Debit Card,Dining Out expense
+Heena,19-11-2023,Transport,5994.92,Debit Card,Transport expense
+Heena,02-12-2023,Transport,4970,Debit Card,Transport expense
+Heena,05-12-2023,Groceries,4249.31,UPI,Groceries expense
+Heena,06-12-2023,Rent,13167.87,Cash,Rent expense
+Heena,07-12-2023,Health,4075.41,UPI,Health expense
+Heena,10-12-2023,Groceries,10124.66,UPI,Groceries expense
+Heena,10-12-2023,Shopping,2161.77,Cash,Shopping expense
+Heena,14-12-2023,Groceries,2954.69,UPI,Groceries expense
+Heena,18-12-2023,Transport,7630.59,Credit Card,Transport expense
+Heena,29-12-2023,Health,7058.67,Debit Card,Health expense
+Heena,30-12-2023,Transport,10557.12,Credit Card,Transport expense
+Heena,06-01-2024,Dining Out,10598.12,UPI,Dining Out expense
+Heena,14-01-2024,Entertainment,6628.95,UPI,Entertainment expense
+Heena,14-01-2024,Dining Out,6503.82,UPI,Dining Out expense
+Heena,18-01-2024,Education,1902.96,Debit Card,Education expense
+Heena,23-01-2024,Groceries,12458.13,Credit Card,Groceries expense
+Heena,24-01-2024,Travel,9271.17,UPI,Travel expense
+Heena,24-01-2024,Entertainment,3858.85,Debit Card,Entertainment expense
+Heena,25-01-2024,Groceries,12727.67,Credit Card,Groceries expense
+Heena,25-01-2024,Education,14146.85,Cash,Education expense
+Heena,10-02-2024,Utilities,6912.65,Credit Card,Utilities expense
+Heena,13-02-2024,Shopping,14960.15,UPI,Shopping expense
+Heena,13-02-2024,Shopping,12978.86,Credit Card,Shopping expense
+Heena,15-02-2024,Entertainment,3243.64,Cash,Entertainment expense
+Heena,19-02-2024,Others,12623.53,UPI,Others expense
+Heena,23-02-2024,Shopping,10488.41,Debit Card,Shopping expense
+Heena,05-03-2024,Transport,8880.06,Debit Card,Transport expense
+Heena,05-03-2024,Travel,14027.12,Credit Card,Travel expense
+Heena,06-03-2024,Health,12865.31,Cash,Health expense
+Heena,08-03-2024,Dining Out,5833.03,Cash,Dining Out expense
+Heena,20-03-2024,Shopping,6602.27,Credit Card,Shopping expense
+Heena,21-03-2024,Utilities,148.36,Debit Card,Utilities expense
+Heena,28-03-2024,Subscriptions,8457.51,Debit Card,Subscriptions expense
+Heena,28-03-2024,Travel,7716.49,UPI,Travel expense
+Heena,29-03-2024,Dining Out,12475.48,Debit Card,Dining Out expense
+Heena,01-04-2024,Utilities,6806.04,Debit Card,Utilities expense
+Heena,04-04-2024,Utilities,2833.97,Debit Card,Utilities expense
+Heena,09-04-2024,Travel,2523.55,Credit Card,Travel expense
+Heena,10-04-2024,Entertainment,10479.21,Debit Card,Entertainment expense
+Heena,14-04-2024,Utilities,2180.49,Credit Card,Utilities expense
+Heena,17-04-2024,Utilities,3976.33,Cash,Utilities expense
+Heena,18-04-2024,Transport,6702.65,Cash,Transport expense
+Heena,22-04-2024,Health,3181.83,Cash,Health expense
+Heena,24-04-2024,Subscriptions,14569.07,Credit Card,Subscriptions expense
+Heena,29-04-2024,Transport,12131.71,Debit Card,Transport expense
+Heena,29-04-2024,Travel,8503.15,Cash,Travel expense
+Heena,12-05-2024,Transport,10877.95,UPI,Transport expense
+Heena,12-05-2024,Rent,5108.33,Debit Card,Rent expense
+Heena,13-05-2024,Utilities,4520.95,UPI,Utilities expense
+Heena,15-05-2024,Rent,13943.57,Cash,Rent expense
+Heena,03-06-2024,Dining Out,2377.31,UPI,Dining Out expense
+Heena,07-06-2024,Groceries,13502.62,Debit Card,Groceries expense
+Heena,14-06-2024,Education,8405.35,Cash,Education expense
+Heena,17-06-2024,Education,4191.5,UPI,Education expense
+Heena,27-06-2024,Utilities,14415.61,Cash,Utilities expense
+Heena,27-06-2024,Subscriptions,14255.59,Credit Card,Subscriptions expense
+Heena,29-06-2024,Utilities,9930.29,UPI,Utilities expense
+Priya,02-01-2023,Dining Out,3684.41,Credit Card,Dining Out expense
+Priya,19-01-2023,Shopping,2785.92,Credit Card,Shopping expense
+Priya,20-01-2023,Entertainment,12540.95,UPI,Entertainment expense
+Priya,27-01-2023,Dining Out,531.4,Credit Card,Dining Out expense
+Priya,29-01-2023,Shopping,12603.73,Cash,Shopping expense
+Priya,01-02-2023,Groceries,5705.3,UPI,Groceries expense
+Priya,03-02-2023,Dining Out,10218.02,UPI,Dining Out expense
+Priya,12-02-2023,Education,4890.75,UPI,Education expense
+Priya,12-02-2023,Rent,777.38,Cash,Rent expense
+Priya,13-02-2023,Health,6950.34,Cash,Health expense
+Priya,13-02-2023,Others,9261.29,Credit Card,Others expense
+Priya,14-02-2023,Health,10177.81,Credit Card,Health expense
+Priya,18-02-2023,Travel,4170.93,Credit Card,Travel expense
+Priya,23-02-2023,Travel,1082.09,Credit Card,Travel expense
+Priya,23-02-2023,Travel,13124.34,Debit Card,Travel expense
+Priya,26-02-2023,Rent,4591.15,UPI,Rent expense
+Priya,26-02-2023,Groceries,4631.46,UPI,Groceries expense
+Priya,27-02-2023,Shopping,4725.08,Cash,Shopping expense
+Priya,03-03-2023,Utilities,6292.76,Debit Card,Utilities expense
+Priya,06-03-2023,Others,651.06,Debit Card,Others expense
+Priya,08-03-2023,Subscriptions,13380.84,Credit Card,Subscriptions expense
+Priya,10-03-2023,Transport,5496.04,Credit Card,Transport expense
+Priya,11-03-2023,Shopping,11020.82,UPI,Shopping expense
+Priya,17-03-2023,Education,13490.32,UPI,Education expense
+Priya,17-03-2023,Utilities,9670.84,Credit Card,Utilities expense
+Priya,19-03-2023,Utilities,7012.9,Debit Card,Utilities expense
+Priya,21-03-2023,Shopping,8643.66,Debit Card,Shopping expense
+Priya,23-03-2023,Shopping,4666.79,Credit Card,Shopping expense
+Priya,28-03-2023,Subscriptions,683.22,UPI,Subscriptions expense
+Priya,30-03-2023,Groceries,6032.58,Credit Card,Groceries expense
+Priya,06-04-2023,Health,11194.38,Cash,Health expense
+Priya,06-04-2023,Subscriptions,8917.95,UPI,Subscriptions expense
+Priya,07-04-2023,Subscriptions,4333.79,Debit Card,Subscriptions expense
+Priya,14-04-2023,Subscriptions,9962.75,Cash,Subscriptions expense
+Priya,16-04-2023,Others,4347.44,Cash,Others expense
+Priya,17-04-2023,Dining Out,2087.8,Credit Card,Dining Out expense
+Priya,21-04-2023,Shopping,1811.79,Credit Card,Shopping expense
+Priya,01-05-2023,Entertainment,10590.16,Credit Card,Entertainment expense
+Priya,03-05-2023,Rent,11230.51,Debit Card,Rent expense
+Priya,15-05-2023,Dining Out,2398.37,Debit Card,Dining Out expense
+Priya,21-05-2023,Utilities,4507.3,Cash,Utilities expense
+Priya,21-05-2023,Subscriptions,6030.71,Credit Card,Subscriptions expense
+Priya,23-05-2023,Transport,491.63,Debit Card,Transport expense
+Priya,25-05-2023,Shopping,14518.68,Credit Card,Shopping expense
+Priya,27-05-2023,Dining Out,618.5,Debit Card,Dining Out expense
+Priya,31-05-2023,Health,14201.56,Cash,Health expense
+Priya,01-06-2023,Transport,2282.02,Cash,Transport expense
+Priya,03-06-2023,Shopping,8782.82,Cash,Shopping expense
+Priya,07-06-2023,Utilities,12653.7,Credit Card,Utilities expense
+Priya,09-06-2023,Utilities,10142.13,Cash,Utilities expense
+Priya,11-06-2023,Others,11926.08,UPI,Others expense
+Priya,14-06-2023,Entertainment,13589.06,Debit Card,Entertainment expense
+Priya,15-06-2023,Shopping,5255.74,UPI,Shopping expense
+Priya,22-06-2023,Groceries,8006.01,Cash,Groceries expense
+Priya,29-06-2023,Utilities,8035.48,Debit Card,Utilities expense
+Priya,29-06-2023,Travel,14714.21,Debit Card,Travel expense
+Priya,04-07-2023,Subscriptions,4886.05,Credit Card,Subscriptions expense
+Priya,05-07-2023,Others,10845.63,UPI,Others expense
+Priya,06-07-2023,Utilities,7592.67,Debit Card,Utilities expense
+Priya,10-07-2023,Education,13711.78,Debit Card,Education expense
+Priya,15-07-2023,Entertainment,12945.86,Credit Card,Entertainment expense
+Priya,18-07-2023,Shopping,10937.95,Credit Card,Shopping expense
+Priya,22-07-2023,Utilities,11427.21,UPI,Utilities expense
+Priya,24-07-2023,Dining Out,13107.73,UPI,Dining Out expense
+Priya,26-07-2023,Rent,13298.28,UPI,Rent expense
+Priya,05-08-2023,Utilities,4412.76,Credit Card,Utilities expense
+Priya,06-08-2023,Utilities,3441.25,Debit Card,Utilities expense
+Priya,08-08-2023,Shopping,2960.88,Debit Card,Shopping expense
+Priya,08-08-2023,Dining Out,10440.31,Credit Card,Dining Out expense
+Priya,16-08-2023,Education,13964.03,Credit Card,Education expense
+Priya,24-08-2023,Subscriptions,1173.92,Credit Card,Subscriptions expense
+Priya,30-08-2023,Health,5686.2,Cash,Health expense
+Priya,01-09-2023,Education,11310.63,Credit Card,Education expense
+Priya,01-09-2023,Entertainment,811.47,Cash,Entertainment expense
+Priya,05-09-2023,Others,4439.95,UPI,Others expense
+Priya,07-09-2023,Health,7907.04,Debit Card,Health expense
+Priya,17-09-2023,Others,5420.7,Cash,Others expense
+Priya,29-09-2023,Travel,11527.69,UPI,Travel expense
+Priya,06-10-2023,Education,7336.36,Debit Card,Education expense
+Priya,07-10-2023,Others,13830.91,Credit Card,Others expense
+Priya,09-10-2023,Utilities,9254.98,Credit Card,Utilities expense
+Priya,13-10-2023,Dining Out,12127.6,UPI,Dining Out expense
+Priya,13-10-2023,Transport,486.11,Cash,Transport expense
+Priya,17-10-2023,Health,11639.53,Debit Card,Health expense
+Priya,18-10-2023,Travel,7951.32,Debit Card,Travel expense
+Priya,21-10-2023,Groceries,9263.62,Cash,Groceries expense
+Priya,24-10-2023,Travel,7295.88,Credit Card,Travel expense
+Priya,12-11-2023,Rent,5989.42,UPI,Rent expense
+Priya,16-11-2023,Shopping,8710.99,Cash,Shopping expense
+Priya,20-11-2023,Utilities,1117.47,Debit Card,Utilities expense
+Priya,20-11-2023,Entertainment,14837.93,Debit Card,Entertainment expense
+Priya,29-11-2023,Dining Out,13261.8,Cash,Dining Out expense
+Priya,29-11-2023,Utilities,12497.19,Debit Card,Utilities expense
+Priya,04-12-2023,Travel,6221.05,Cash,Travel expense
+Priya,10-12-2023,Utilities,670.72,UPI,Utilities expense
+Priya,26-12-2023,Rent,13060.95,UPI,Rent expense
+Priya,27-12-2023,Subscriptions,12221.28,Credit Card,Subscriptions expense
+Priya,05-01-2024,Groceries,5917.76,Cash,Groceries expense
+Priya,06-01-2024,Groceries,12682.82,Debit Card,Groceries expense
+Priya,12-01-2024,Health,11175.28,Debit Card,Health expense
+Priya,13-01-2024,Education,9218.03,UPI,Education expense
+Priya,15-01-2024,Shopping,11469.96,Debit Card,Shopping expense
+Priya,17-01-2024,Utilities,8838.33,Cash,Utilities expense
+Priya,21-01-2024,Travel,12216.45,Credit Card,Travel expense
+Priya,31-01-2024,Shopping,7493.43,UPI,Shopping expense
+Priya,06-02-2024,Utilities,4712.77,Cash,Utilities expense
+Priya,10-02-2024,Entertainment,3401.42,Credit Card,Entertainment expense
+Priya,15-02-2024,Groceries,11140.44,UPI,Groceries expense
+Priya,20-02-2024,Shopping,14296.56,UPI,Shopping expense
+Priya,20-02-2024,Entertainment,1187.3,Debit Card,Entertainment expense
+Priya,29-02-2024,Rent,7579.91,Debit Card,Rent expense
+Priya,02-03-2024,Utilities,7899.92,Cash,Utilities expense
+Priya,02-03-2024,Dining Out,7520.77,Cash,Dining Out expense
+Priya,03-03-2024,Entertainment,6134.98,Cash,Entertainment expense
+Priya,05-03-2024,Travel,1035.83,Debit Card,Travel expense
+Priya,09-03-2024,Others,14529.14,Cash,Others expense
+Priya,10-03-2024,Groceries,9076.55,Debit Card,Groceries expense
+Priya,12-03-2024,Utilities,5338.05,Debit Card,Utilities expense
+Priya,21-03-2024,Entertainment,1218.11,Cash,Entertainment expense
+Priya,24-03-2024,Education,5522.08,UPI,Education expense
+Priya,27-03-2024,Education,11694.05,Credit Card,Education expense
+Priya,28-03-2024,Health,3311.98,Credit Card,Health expense
+Priya,28-03-2024,Travel,11965.31,Credit Card,Travel expense
+Priya,31-03-2024,Groceries,10050.81,Credit Card,Groceries expense
+Priya,04-04-2024,Travel,12977.28,Credit Card,Travel expense
+Priya,04-04-2024,Transport,4711.07,UPI,Transport expense
+Priya,05-04-2024,Education,2012.19,Credit Card,Education expense
+Priya,06-04-2024,Groceries,14737.55,Credit Card,Groceries expense
+Priya,07-04-2024,Rent,5594.19,Cash,Rent expense
+Priya,09-04-2024,Shopping,5613.79,UPI,Shopping expense
+Priya,20-04-2024,Transport,9139.24,Credit Card,Transport expense
+Priya,25-04-2024,Transport,10206.77,Credit Card,Transport expense
+Priya,25-04-2024,Education,13597.28,Cash,Education expense
+Priya,26-04-2024,Rent,14717.49,Debit Card,Rent expense
+Priya,28-04-2024,Others,11406.73,UPI,Others expense
+Priya,29-04-2024,Entertainment,11324.03,Cash,Entertainment expense
+Priya,30-04-2024,Groceries,12493.4,Cash,Groceries expense
+Priya,02-05-2024,Subscriptions,14370.06,UPI,Subscriptions expense
+Priya,05-05-2024,Travel,12191.32,UPI,Travel expense
+Priya,05-05-2024,Subscriptions,11560.55,Debit Card,Subscriptions expense
+Priya,17-05-2024,Transport,2122.35,Cash,Transport expense
+Priya,24-05-2024,Shopping,12037.11,Credit Card,Shopping expense
+Priya,26-05-2024,Dining Out,9516.13,Cash,Dining Out expense
+Priya,29-05-2024,Subscriptions,14497.4,Debit Card,Subscriptions expense
+Priya,03-06-2024,Health,8746.91,Debit Card,Health expense
+Priya,04-06-2024,Transport,14778.47,Cash,Transport expense
+Priya,08-06-2024,Groceries,6505.71,Credit Card,Groceries expense
+Priya,15-06-2024,Entertainment,3834.02,Cash,Entertainment expense
+Priya,23-06-2024,Groceries,7676.48,Debit Card,Groceries expense
+Priya,24-06-2024,Health,11664.97,Cash,Health expense
+Ravi,04-01-2023,Others,8716.84,UPI,Others expense
+Ravi,09-01-2023,Groceries,2095.63,Debit Card,Groceries expense
+Ravi,10-01-2023,Entertainment,13933.98,Cash,Entertainment expense
+Ravi,12-01-2023,Entertainment,10422.25,Credit Card,Entertainment expense
+Ravi,17-01-2023,Entertainment,4498.37,Debit Card,Entertainment expense
+Ravi,17-01-2023,Rent,276.58,Debit Card,Rent expense
+Ravi,28-01-2023,Dining Out,4056.4,Debit Card,Dining Out expense
+Ravi,02-02-2023,Groceries,5751.03,Debit Card,Groceries expense
+Ravi,08-02-2023,Utilities,13245.45,Debit Card,Utilities expense
+Ravi,10-02-2023,Groceries,12089.29,UPI,Groceries expense
+Ravi,13-02-2023,Transport,13528.97,UPI,Transport expense
+Ravi,16-02-2023,Rent,10732.52,UPI,Rent expense
+Ravi,16-02-2023,Health,10535.73,Credit Card,Health expense
+Ravi,19-02-2023,Transport,6093.75,Cash,Transport expense
+Ravi,27-02-2023,Utilities,3589.01,Credit Card,Utilities expense
+Ravi,01-03-2023,Subscriptions,10124.24,Debit Card,Subscriptions expense
+Ravi,03-03-2023,Groceries,572.85,Debit Card,Groceries expense
+Ravi,05-03-2023,Others,7828.38,UPI,Others expense
+Ravi,05-03-2023,Travel,7034.39,Cash,Travel expense
+Ravi,10-03-2023,Groceries,6751.97,Cash,Groceries expense
+Ravi,18-03-2023,Travel,11488.65,Cash,Travel expense
+Ravi,22-03-2023,Shopping,9873.98,Debit Card,Shopping expense
+Ravi,26-03-2023,Education,9709.12,Debit Card,Education expense
+Ravi,02-04-2023,Travel,8073.77,UPI,Travel expense
+Ravi,08-04-2023,Utilities,7214.07,UPI,Utilities expense
+Ravi,23-04-2023,Health,11971.65,Credit Card,Health expense
+Ravi,25-04-2023,Rent,8633.25,UPI,Rent expense
+Ravi,02-05-2023,Utilities,5969.17,Cash,Utilities expense
+Ravi,17-05-2023,Education,6879.18,UPI,Education expense
+Ravi,17-05-2023,Travel,1867.63,Credit Card,Travel expense
+Ravi,21-05-2023,Rent,6162.92,UPI,Rent expense
+Ravi,25-05-2023,Groceries,4424.16,Cash,Groceries expense
+Ravi,27-05-2023,Travel,6262.05,UPI,Travel expense
+Ravi,28-05-2023,Education,8479.55,Cash,Education expense
+Ravi,30-05-2023,Entertainment,4385.69,Cash,Entertainment expense
+Ravi,03-06-2023,Utilities,12831.84,Credit Card,Utilities expense
+Ravi,04-06-2023,Rent,7635.42,UPI,Rent expense
+Ravi,13-06-2023,Shopping,2928.53,Credit Card,Shopping expense
+Ravi,13-06-2023,Education,7531.52,Debit Card,Education expense
+Ravi,13-06-2023,Health,10385.33,Credit Card,Health expense
+Ravi,24-06-2023,Subscriptions,2301.86,Debit Card,Subscriptions expense
+Ravi,30-06-2023,Rent,11840.61,Debit Card,Rent expense
+Ravi,03-07-2023,Groceries,7913.34,Cash,Groceries expense
+Ravi,10-07-2023,Others,13163.47,Credit Card,Others expense
+Ravi,10-07-2023,Rent,11882.44,Credit Card,Rent expense
+Ravi,14-07-2023,Others,11228.5,Cash,Others expense
+Ravi,15-07-2023,Rent,5719.8,Credit Card,Rent expense
+Ravi,17-07-2023,Utilities,12422.15,Debit Card,Utilities expense
+Ravi,19-07-2023,Shopping,1195.62,Credit Card,Shopping expense
+Ravi,20-07-2023,Shopping,5759.61,UPI,Shopping expense
+Ravi,23-07-2023,Dining Out,7551.16,Debit Card,Dining Out expense
+Ravi,28-07-2023,Health,13104.98,Debit Card,Health expense
+Ravi,09-08-2023,Dining Out,825.01,Credit Card,Dining Out expense
+Ravi,11-08-2023,Education,13055.16,UPI,Education expense
+Ravi,12-08-2023,Transport,7930.05,Cash,Transport expense
+Ravi,17-08-2023,Rent,14679.51,Cash,Rent expense
+Ravi,20-08-2023,Entertainment,9840.66,Cash,Entertainment expense
+Ravi,22-08-2023,Others,8794.5,Cash,Others expense
+Ravi,24-08-2023,Transport,5257.78,Debit Card,Transport expense
+Ravi,28-08-2023,Subscriptions,11340.35,UPI,Subscriptions expense
+Ravi,03-09-2023,Transport,10080.53,Cash,Transport expense
+Ravi,03-09-2023,Subscriptions,11655.16,Credit Card,Subscriptions expense
+Ravi,04-09-2023,Transport,12246.69,Credit Card,Transport expense
+Ravi,06-09-2023,Rent,2942.69,Cash,Rent expense
+Ravi,09-09-2023,Education,3934.17,Credit Card,Education expense
+Ravi,10-09-2023,Entertainment,3450.52,Credit Card,Entertainment expense
+Ravi,12-09-2023,Rent,5815.26,Credit Card,Rent expense
+Ravi,19-09-2023,Transport,9735.92,Credit Card,Transport expense
+Ravi,28-09-2023,Others,11481.47,Credit Card,Others expense
+Ravi,28-09-2023,Dining Out,2964.74,Debit Card,Dining Out expense
+Ravi,01-10-2023,Health,5658.47,Cash,Health expense
+Ravi,05-10-2023,Subscriptions,2145.37,Credit Card,Subscriptions expense
+Ravi,08-10-2023,Entertainment,8644.8,Cash,Entertainment expense
+Ravi,09-10-2023,Rent,9427.3,UPI,Rent expense
+Ravi,10-10-2023,Transport,580.04,Cash,Transport expense
+Ravi,15-10-2023,Subscriptions,2772.38,Cash,Subscriptions expense
+Ravi,16-10-2023,Education,4357.65,Debit Card,Education expense
+Ravi,21-10-2023,Rent,12111.9,Debit Card,Rent expense
+Ravi,22-10-2023,Shopping,9723.88,Credit Card,Shopping expense
+Ravi,30-10-2023,Shopping,3365.02,UPI,Shopping expense
+Ravi,01-11-2023,Entertainment,10384.57,UPI,Entertainment expense
+Ravi,03-11-2023,Dining Out,7658.99,Credit Card,Dining Out expense
+Ravi,03-11-2023,Education,5588.53,Cash,Education expense
+Ravi,04-11-2023,Health,11340.8,UPI,Health expense
+Ravi,12-11-2023,Education,1441.73,Cash,Education expense
+Ravi,12-11-2023,Others,5999.64,Cash,Others expense
+Ravi,17-11-2023,Others,11039.58,Credit Card,Others expense
+Ravi,18-11-2023,Utilities,13690.65,Debit Card,Utilities expense
+Ravi,19-11-2023,Rent,8846.84,UPI,Rent expense
+Ravi,23-11-2023,Utilities,14860.17,Debit Card,Utilities expense
+Ravi,23-11-2023,Dining Out,3629.87,Credit Card,Dining Out expense
+Ravi,23-11-2023,Others,6183.06,Debit Card,Others expense
+Ravi,29-11-2023,Travel,7929.61,Debit Card,Travel expense
+Ravi,05-12-2023,Utilities,9759.45,Debit Card,Utilities expense
+Ravi,06-12-2023,Dining Out,13432.39,Cash,Dining Out expense
+Ravi,07-12-2023,Entertainment,3255.94,Cash,Entertainment expense
+Ravi,10-12-2023,Entertainment,14837.58,Debit Card,Entertainment expense
+Ravi,14-12-2023,Subscriptions,11348.98,Credit Card,Subscriptions expense
+Ravi,17-12-2023,Subscriptions,10170.44,Credit Card,Subscriptions expense
+Ravi,19-12-2023,Travel,11808.49,Debit Card,Travel expense
+Ravi,20-12-2023,Health,11433.91,UPI,Health expense
+Ravi,27-12-2023,Utilities,10832.67,UPI,Utilities expense
+Ravi,04-01-2024,Subscriptions,7043.46,Debit Card,Subscriptions expense
+Ravi,10-01-2024,Rent,862.25,Debit Card,Rent expense
+Ravi,18-01-2024,Health,11384.52,Debit Card,Health expense
+Ravi,18-01-2024,Rent,9923.34,Debit Card,Rent expense
+Ravi,22-01-2024,Health,10272.68,Cash,Health expense
+Ravi,24-01-2024,Health,14323.67,Credit Card,Health expense
+Ravi,25-01-2024,Education,4695.49,Credit Card,Education expense
+Ravi,29-01-2024,Dining Out,3799.23,Debit Card,Dining Out expense
+Ravi,07-02-2024,Subscriptions,14503.63,Debit Card,Subscriptions expense
+Ravi,07-02-2024,Subscriptions,10945.09,UPI,Subscriptions expense
+Ravi,20-02-2024,Education,14854.47,UPI,Education expense
+Ravi,23-02-2024,Utilities,11510.83,UPI,Utilities expense
+Ravi,27-02-2024,Utilities,1112.72,UPI,Utilities expense
+Ravi,28-02-2024,Shopping,1598.12,Debit Card,Shopping expense
+Ravi,28-02-2024,Rent,11144.66,UPI,Rent expense
+Ravi,02-03-2024,Subscriptions,5887.44,UPI,Subscriptions expense
+Ravi,05-03-2024,Dining Out,3685.93,Cash,Dining Out expense
+Ravi,06-03-2024,Shopping,6783.2,Debit Card,Shopping expense
+Ravi,13-03-2024,Subscriptions,798.57,Debit Card,Subscriptions expense
+Ravi,27-03-2024,Shopping,2356.33,Debit Card,Shopping expense
+Ravi,28-03-2024,Groceries,10782.08,UPI,Groceries expense
+Ravi,02-04-2024,Entertainment,4598.99,Credit Card,Entertainment expense
+Ravi,05-04-2024,Shopping,8080.97,Cash,Shopping expense
+Ravi,09-04-2024,Utilities,6906.3,Debit Card,Utilities expense
+Ravi,19-04-2024,Travel,8025.81,Debit Card,Travel expense
+Ravi,22-04-2024,Groceries,6798.98,Credit Card,Groceries expense
+Ravi,24-04-2024,Entertainment,12151.33,UPI,Entertainment expense
+Ravi,25-04-2024,Shopping,5623.5,UPI,Shopping expense
+Ravi,29-04-2024,Transport,4580.97,UPI,Transport expense
+Ravi,30-04-2024,Subscriptions,2319.22,Debit Card,Subscriptions expense
+Ravi,01-05-2024,Entertainment,13869.97,Cash,Entertainment expense
+Ravi,02-05-2024,Education,11363.07,UPI,Education expense
+Ravi,02-05-2024,Rent,10572.39,Cash,Rent expense
+Ravi,05-05-2024,Transport,12436.48,UPI,Transport expense
+Ravi,05-05-2024,Transport,6009.82,UPI,Transport expense
+Ravi,15-05-2024,Shopping,5297.17,Debit Card,Shopping expense
+Ravi,15-05-2024,Groceries,12149.51,Debit Card,Groceries expense
+Ravi,15-05-2024,Others,6966.35,Debit Card,Others expense
+Ravi,15-05-2024,Utilities,7906.77,Cash,Utilities expense
+Ravi,31-05-2024,Education,12397.14,Credit Card,Education expense
+Ravi,05-06-2024,Subscriptions,10660.22,Debit Card,Subscriptions expense
+Ravi,11-06-2024,Subscriptions,4854.83,Cash,Subscriptions expense
+Ravi,11-06-2024,Utilities,13977.39,Credit Card,Utilities expense
+Ravi,11-06-2024,Shopping,6072.42,Cash,Shopping expense
+Ravi,20-06-2024,Education,12780.79,UPI,Education expense
+Ravi,24-06-2024,Others,1263.73,Credit Card,Others expense
+Ravi,26-06-2024,Others,8082.5,Credit Card,Others expense
+Ravi,27-06-2024,Transport,882.12,UPI,Transport expense
+Sneha,02-01-2023,Transport,1261.29,Debit Card,Transport expense
+Sneha,07-01-2023,Health,12640.04,Credit Card,Health expense
+Sneha,09-01-2023,Dining Out,6657.48,UPI,Dining Out expense
+Sneha,10-01-2023,Education,3007.41,UPI,Education expense
+Sneha,13-01-2023,Shopping,2066.54,Credit Card,Shopping expense
+Sneha,13-01-2023,Transport,7129.29,Cash,Transport expense
+Sneha,26-01-2023,Education,4501.94,Cash,Education expense
+Sneha,28-01-2023,Others,14150.33,Debit Card,Others expense
+Sneha,28-01-2023,Travel,3161.14,Credit Card,Travel expense
+Sneha,03-02-2023,Education,5293.8,Credit Card,Education expense
+Sneha,06-02-2023,Subscriptions,3445.28,Debit Card,Subscriptions expense
+Sneha,12-02-2023,Others,8240.66,Debit Card,Others expense
+Sneha,15-02-2023,Dining Out,14505.49,Debit Card,Dining Out expense
+Sneha,25-02-2023,Transport,5849.7,Debit Card,Transport expense
+Sneha,26-02-2023,Entertainment,1879.7,UPI,Entertainment expense
+Sneha,26-02-2023,Education,5578.55,UPI,Education expense
+Sneha,06-03-2023,Utilities,4211.83,Debit Card,Utilities expense
+Sneha,06-03-2023,Dining Out,12012.59,Cash,Dining Out expense
+Sneha,09-03-2023,Entertainment,10976.38,Debit Card,Entertainment expense
+Sneha,12-03-2023,Health,2173.77,Debit Card,Health expense
+Sneha,16-03-2023,Rent,305.52,Cash,Rent expense
+Sneha,17-03-2023,Groceries,2397.89,Credit Card,Groceries expense
+Sneha,19-03-2023,Travel,6102.48,Cash,Travel expense
+Sneha,20-03-2023,Education,7710.65,Debit Card,Education expense
+Sneha,21-03-2023,Dining Out,1879.07,Credit Card,Dining Out expense
+Sneha,22-03-2023,Subscriptions,900.08,Credit Card,Subscriptions expense
+Sneha,26-03-2023,Dining Out,11958.63,Cash,Dining Out expense
+Sneha,26-03-2023,Travel,4234.27,UPI,Travel expense
+Sneha,28-03-2023,Travel,4766.47,UPI,Travel expense
+Sneha,28-03-2023,Transport,11706.65,Credit Card,Transport expense
+Sneha,29-03-2023,Groceries,5290.1,UPI,Groceries expense
+Sneha,31-03-2023,Utilities,6787.77,Debit Card,Utilities expense
+Sneha,31-03-2023,Education,11656.91,Cash,Education expense
+Sneha,06-04-2023,Others,9559.12,Debit Card,Others expense
+Sneha,15-04-2023,Groceries,5576.67,Credit Card,Groceries expense
+Sneha,20-04-2023,Groceries,14150.11,Cash,Groceries expense
+Sneha,27-04-2023,Entertainment,7962.95,Debit Card,Entertainment expense
+Sneha,27-04-2023,Shopping,12698.22,Credit Card,Shopping expense
+Sneha,28-04-2023,Rent,9754.75,Credit Card,Rent expense
+Sneha,01-05-2023,Rent,12125.91,Credit Card,Rent expense
+Sneha,10-05-2023,Others,3820.19,UPI,Others expense
+Sneha,10-05-2023,Others,11020.74,Credit Card,Others expense
+Sneha,17-05-2023,Travel,1119.33,UPI,Travel expense
+Sneha,20-05-2023,Entertainment,9087.85,Credit Card,Entertainment expense
+Sneha,21-05-2023,Others,2541.11,Cash,Others expense
+Sneha,22-05-2023,Dining Out,6403.28,Debit Card,Dining Out expense
+Sneha,24-05-2023,Groceries,5337.88,Debit Card,Groceries expense
+Sneha,25-05-2023,Subscriptions,6331.76,Debit Card,Subscriptions expense
+Sneha,07-06-2023,Others,4818.51,Debit Card,Others expense
+Sneha,09-06-2023,Subscriptions,5921.9,Credit Card,Subscriptions expense
+Sneha,11-06-2023,Education,110.07,Debit Card,Education expense
+Sneha,13-06-2023,Shopping,14381.09,Debit Card,Shopping expense
+Sneha,18-06-2023,Others,7788.31,UPI,Others expense
+Sneha,19-06-2023,Rent,9421.5,Debit Card,Rent expense
+Sneha,22-06-2023,Shopping,4411.07,Credit Card,Shopping expense
+Sneha,23-06-2023,Travel,2625.58,Debit Card,Travel expense
+Sneha,26-06-2023,Travel,13788.37,Credit Card,Travel expense
+Sneha,11-07-2023,Shopping,3036.41,Credit Card,Shopping expense
+Sneha,20-07-2023,Education,2118.79,Cash,Education expense
+Sneha,22-07-2023,Education,5893.65,Debit Card,Education expense
+Sneha,24-07-2023,Dining Out,10257.52,UPI,Dining Out expense
+Sneha,25-07-2023,Education,2746.8,Credit Card,Education expense
+Sneha,31-07-2023,Rent,8030.98,Credit Card,Rent expense
+Sneha,03-08-2023,Education,12486.1,Credit Card,Education expense
+Sneha,07-08-2023,Travel,13806.42,UPI,Travel expense
+Sneha,08-08-2023,Transport,11309.65,Credit Card,Transport expense
+Sneha,09-08-2023,Rent,14235.33,Cash,Rent expense
+Sneha,14-08-2023,Entertainment,4195.31,Cash,Entertainment expense
+Sneha,20-08-2023,Subscriptions,238.38,Debit Card,Subscriptions expense
+Sneha,26-08-2023,Health,2877.17,UPI,Health expense
+Sneha,28-08-2023,Health,10585.1,Cash,Health expense
+Sneha,31-08-2023,Transport,12929.63,Credit Card,Transport expense
+Sneha,02-09-2023,Entertainment,2827.36,Cash,Entertainment expense
+Sneha,02-09-2023,Rent,1384.57,UPI,Rent expense
+Sneha,04-09-2023,Dining Out,10187.82,Debit Card,Dining Out expense
+Sneha,04-09-2023,Education,7971.47,Cash,Education expense
+Sneha,10-09-2023,Others,8947.72,Debit Card,Others expense
+Sneha,12-09-2023,Travel,2578.44,Credit Card,Travel expense
+Sneha,12-09-2023,Health,4141.74,Credit Card,Health expense
+Sneha,19-09-2023,Groceries,3503.23,Cash,Groceries expense
+Sneha,22-09-2023,Transport,6742.1,UPI,Transport expense
+Sneha,01-10-2023,Subscriptions,2120.27,Cash,Subscriptions expense
+Sneha,02-10-2023,Subscriptions,8176.45,Credit Card,Subscriptions expense
+Sneha,03-10-2023,Entertainment,7447.55,Credit Card,Entertainment expense
+Sneha,03-10-2023,Travel,5690.07,Debit Card,Travel expense
+Sneha,06-10-2023,Subscriptions,4017.95,Cash,Subscriptions expense
+Sneha,12-10-2023,Others,6874.97,Credit Card,Others expense
+Sneha,15-10-2023,Health,1796.93,Credit Card,Health expense
+Sneha,18-10-2023,Shopping,8535.52,UPI,Shopping expense
+Sneha,23-10-2023,Utilities,8528.19,Debit Card,Utilities expense
+Sneha,03-11-2023,Education,5480.76,Cash,Education expense
+Sneha,03-11-2023,Utilities,11624.56,Debit Card,Utilities expense
+Sneha,06-11-2023,Utilities,1490.77,Credit Card,Utilities expense
+Sneha,07-11-2023,Transport,9914.08,Credit Card,Transport expense
+Sneha,14-11-2023,Groceries,14617.27,UPI,Groceries expense
+Sneha,17-11-2023,Dining Out,9208.5,Debit Card,Dining Out expense
+Sneha,26-11-2023,Transport,7392.94,Debit Card,Transport expense
+Sneha,29-11-2023,Health,4448.53,Cash,Health expense
+Sneha,06-12-2023,Health,11878.42,UPI,Health expense
+Sneha,06-12-2023,Health,257.16,Cash,Health expense
+Sneha,18-12-2023,Education,7864.61,UPI,Education expense
+Sneha,18-12-2023,Groceries,10441.06,Debit Card,Groceries expense
+Sneha,22-12-2023,Subscriptions,2587.75,Credit Card,Subscriptions expense
+Sneha,23-12-2023,Education,6628.67,Cash,Education expense
+Sneha,29-12-2023,Subscriptions,8994.18,Cash,Subscriptions expense
+Sneha,02-01-2024,Groceries,3345.67,Debit Card,Groceries expense
+Sneha,04-01-2024,Others,1729.6,Cash,Others expense
+Sneha,05-01-2024,Entertainment,5640.47,Cash,Entertainment expense
+Sneha,20-01-2024,Health,10227.45,UPI,Health expense
+Sneha,25-01-2024,Groceries,11991.02,Credit Card,Groceries expense
+Sneha,25-01-2024,Shopping,5087.57,Debit Card,Shopping expense
+Sneha,28-01-2024,Utilities,13974.29,UPI,Utilities expense
+Sneha,29-01-2024,Subscriptions,6196.1,Debit Card,Subscriptions expense
+Sneha,02-02-2024,Groceries,8622.21,UPI,Groceries expense
+Sneha,05-02-2024,Education,5240.01,UPI,Education expense
+Sneha,11-02-2024,Shopping,9548.43,Cash,Shopping expense
+Sneha,12-02-2024,Groceries,2520.51,Credit Card,Groceries expense
+Sneha,12-02-2024,Shopping,11049.63,Credit Card,Shopping expense
+Sneha,12-02-2024,Subscriptions,9465.7,Credit Card,Subscriptions expense
+Sneha,26-02-2024,Rent,13019.01,Credit Card,Rent expense
+Sneha,04-03-2024,Subscriptions,11881.74,Cash,Subscriptions expense
+Sneha,06-03-2024,Shopping,11464.62,UPI,Shopping expense
+Sneha,09-03-2024,Health,6791.09,Cash,Health expense
+Sneha,11-03-2024,Groceries,4535.86,UPI,Groceries expense
+Sneha,14-03-2024,Utilities,11794.25,UPI,Utilities expense
+Sneha,14-03-2024,Transport,13244,UPI,Transport expense
+Sneha,15-03-2024,Transport,4101.2,Debit Card,Transport expense
+Sneha,15-03-2024,Shopping,3792.02,UPI,Shopping expense
+Sneha,18-03-2024,Health,11087.09,Cash,Health expense
+Sneha,20-03-2024,Groceries,9223.22,Debit Card,Groceries expense
+Sneha,23-03-2024,Transport,5174.83,Cash,Transport expense
+Sneha,29-03-2024,Transport,13459.23,Cash,Transport expense
+Sneha,31-03-2024,Shopping,1623.25,Credit Card,Shopping expense
+Sneha,06-04-2024,Education,5401.59,UPI,Education expense
+Sneha,06-04-2024,Dining Out,12996.28,Cash,Dining Out expense
+Sneha,08-04-2024,Shopping,4573.93,Cash,Shopping expense
+Sneha,15-04-2024,Rent,13948.55,Cash,Rent expense
+Sneha,04-05-2024,Groceries,5807.74,UPI,Groceries expense
+Sneha,05-05-2024,Dining Out,8062.07,Debit Card,Dining Out expense
+Sneha,11-05-2024,Shopping,784.55,Cash,Shopping expense
+Sneha,13-05-2024,Travel,8368.2,UPI,Travel expense
+Sneha,14-05-2024,Shopping,13046.73,Cash,Shopping expense
+Sneha,16-05-2024,Entertainment,2887.77,UPI,Entertainment expense
+Sneha,17-05-2024,Dining Out,4955.7,UPI,Dining Out expense
+Sneha,18-05-2024,Health,7381.62,Debit Card,Health expense
+Sneha,22-05-2024,Subscriptions,8633.44,Cash,Subscriptions expense
+Sneha,28-05-2024,Health,10556.98,Debit Card,Health expense
+Sneha,05-06-2024,Transport,4503.58,Debit Card,Transport expense
+Sneha,05-06-2024,Rent,12894.47,Cash,Rent expense
+Sneha,08-06-2024,Health,491.3,Cash,Health expense
